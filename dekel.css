@@ -165,7 +165,7 @@ body{
     height:300px ;
 }
 .type-1{
-    background-image: linear-gradient(to right , rgba(200, 248, 177, 0.678), rgba(80, 212, 80, 0.("type_local.jpg");
+    background-image: linear-gradient(to right , rgba(200, 248, 177, 0.678), rgba(80, 212, 80, 0.582),url("type_local.jpg");
     background-size: cover;
 }
 .type-2{
